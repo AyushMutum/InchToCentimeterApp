@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InchToCentimeter</string>
+    <string name="app_heading">Convert Inches to Centimeter</string>
+    <string name="app_convert_btn">Convert to Cm</string>
+    <string name="app_result">Result</string>
+    <string name="message">Please enter the value</string>
+</resources>
